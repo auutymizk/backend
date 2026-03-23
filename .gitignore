@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+hyper_trader.db
+uploads/
+*.log
+.DS_Store
